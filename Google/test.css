@@ -1,0 +1,37 @@
+
+.bar{
+    display: flex;
+    width: auto;
+    height: 48px;
+    padding: 8px;
+    background-color: #202124;
+    align-items: center;
+    justify-content: space-between;
+}
+.about-bar > .about{
+    color: #bdc1c6;
+    font-size: 14px;
+    margin-left: 15px;
+    font-family: arial,sans-serif;
+}
+
+.menu-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-bar .menu{
+    color: white;
+    font-size: 12px;
+    padding: 0 0 0 15px;
+    font-family: arial,sans-serif;
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
